@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
-<i>"Text in. Differences out — 100% Private, Secure & Offline."</i>
+<i>"Text in. Differences out — 100% Private & Secure"</i>
 </p>
 
 <p align="center">
-  <a href="https://text-differ.com">
-    <strong>🌐 Launch Web App →</strong>
+  <a href="https://text-differ.com" style="margin-right: 15px;">
+    <strong>🌐 Launch Text Compare →</strong>
+  </a>
+  <a href="https://text-differ.com/smart-formatter" style="margin-left: 15px;">
+    <strong>✨ Launch Smart Formatter →</strong>
   </a>
 </p>
 
@@ -17,7 +20,7 @@
 </p>
 
 Latest Update:
-- **Drap & Drop Support:** Drag-and-drop file comparison directly in the browser..
+- **Drag & Drop Support:** Drag-and-drop file comparison directly in the browser.
 - **Virtualized diff rendering:** Smooth performance by loading only visible changes while scrolling large files.
 - **Interactive Site Intro:** Built-in guided walkthrough to help new users quickly understand the comparison interface and features.
 
@@ -80,6 +83,43 @@ Comparing text shouldn't be painful. Text Differ is a fast, accurate, and privac
 | Keyboard Shortcuts   | Navigate between changes quickly using hotkeys (e.g. Next / Prev change).             |
 | Multi-Language Format| Inbuilt code formatters for JSON, XML, HTML, CSS, JavaScript, and SQL.                |
 | No Sign-up Required  | Start comparing instantly — no account needed.                                        |
+
+---
+
+## Smart Formatter: Code & Data Formatter
+
+In addition to text comparison, Text Differ now includes **Smart Formatter** — a powerful, all-in-one tool to beautify, validate, and format your code and data.
+
+<p align="center">
+  <img src="src/smart-formatter.png" alt="Smart Formatter Interface" width="800">
+</p>
+
+Clean, readable code is essential for debugging, sharing, and maintaining projects. Smart Formatter helps you instantly transform minified or messy code into properly indented, syntax-highlighted structures — **all locally in your browser**.
+
+| Feature                      | Description                                                                               |
+| ---------------------------- | ----------------------------------------------------------------------------------------- |
+| Multi-Format Support         | Format JSON, HTML, CSS, SQL, JavaScript, and more with a single tool.                     |
+| Auto-Detect Format           | Automatically recognizes the code type — no manual selection required.                    |
+| One-Click Beautify           | Add proper indentation and line breaks instantly.                                         |
+| Error Detection              | Identify syntax issues or malformed structures in real time.                              |
+| Upload or Fetch from URL     | Drag and drop a file, or paste a URL to fetch and format remote data.                     |
+| Download Formatted File      | Save the beautified output as a file for offline use or sharing.                          |
+| Copy & Share                 | Copy the formatted result to clipboard with one click.                                    |
+| Expandable Editor & Output   | Expand input or output panels for a cleaner workspace with large code blocks.            |
+| Preference Presets           | Save your settings (e.g., indent size, format type) for next time.                        |
+
+### 🛠️ How to Use Smart Formatter
+
+1. Paste, upload, or fetch your code from a URL in the input panel.
+2. Choose a specific format (e.g., JSON, SQL) or use **Auto-Detect**.
+3. Click **Format** to beautify the code.
+4. Copy the output or download it as a file.
+
+### ✅ Popular Use Cases
+
+- **Developers:** Quickly debug API responses by formatting raw JSON.
+- **Data Analysts:** Beautify SQL queries for better readability.
+- **Students:** Learn proper code structure by comparing minified vs. formatted code.
 
 ---
 

@@ -1,41 +1,67 @@
-# Text-Differ – A Letter from Us
+# A Letter to Our Users
 
-Hi there!
+Dear Text Differ User,
 
-We know—there are a lot of diff checkers and formatting tools out there. Web extensions, command-line utilities, complex desktop packages, and premium online tools. It’s overwhelming. We’re not here to add to the noise. We are building the document comparison tool we wish we had: something clean and fast, helping you audit changes without worrying about security or layout bugs.
+Thank you for using Text Differ and Smart Formatter. I wanted to take a moment to share why we built these tools and what you can expect from us.
 
-Our mission is clear: **Input in, differences highlighted, zero data leaks.**
+## Why We Built This
 
-## What Text-Differ Is (and Isn't)
+We were tired of online tools that claimed to be "private" but secretly uploaded our documents to unknown servers. As developers and writers ourselves, we needed a simple way to compare text and format code — without worrying where our data was going.
 
-Text-Differ automates and simplifies textual comparisons. We don't try to lock you into heavy cloud subscriptions or bundle bloated code generators. We focus on helping you find, merge, and format text changes efficiently.
+So we built Text Differ. And later, Smart Formatter.
 
-- **✅ Privacy-First:** Native offline execution keeps your intellectual property secure.
-- **✅ Developer Friendly:** Built-in code formatters clean up source code before diffs.
-- **❌ AI Blog Writer:** We don't write articles for you. We help you audit and compare actual documentation.
+## What Text Differ Does
 
-## Feature Comparison
+- Compare two texts side by side
+- See differences highlighted in color
+- Merge three versions of a document
+- Ignore whitespace or case when needed
+- Compare line by line, word by word, or character by character
 
-Here is how Text-Differ compares with alternative tools:
+All of it — 100% local.
 
-| Feature / Tool                           | **Text-Differ** | **Diffchecker.com** | **Beyond Compare** | **VS Code Diff** | **Meld**  |
-| ---------------------------------------- | --------------- | -------------------- | ------------------ | ----------------- | --------- |
-| **Side-by-Side Highlight Diffs**         | ✅              | ✅                  | ✅                 | ✅               | ✅        |
-| **100% Offline Security**                | ✅              | ✅                  | ✅                 | ✅               | ✅        |
-| **Inbuilt Code Formatters**              | ✅              | ❌                  | ❌                 | ❌               | ❌        |
-| **Zero Setup Configuration**             | ✅              | ✅                  | ❌                 | ❌               | ❌        |
+## What Smart Formatter Does
 
-When it comes to corporate privacy, Text-Differ has a unique advantage: it operates entirely within your workstation's memory limits, meaning no customer databases, source codes, or financial logs ever hit third-party servers.
+- Format JSON, HTML, CSS, SQL, and JavaScript
+- Auto-detect what format you're using
+- Validate syntax and catch errors
+- Copy or download the formatted result
 
-## When to Use Text-Differ
+Again — all local. No servers. No uploads.
 
-🛠️ You want a lightweight comparison tool that doesn't drag down your CPU.
+## What We Don't Do
 
-🧘‍♂️ You handle highly confidential documents and need to guarantee zero data leakage.
+- ❌ Upload your files anywhere
+- ❌ Store your text or code in servers
+- ❌ Track what you compare or format
+- ❌ Require an account
+- ❌ Ask for your email
 
-## Try It and Let Us Know
+## What We Do
 
-Text-Differ is built for writers, developers, editors, and security-minded users. If it makes your auditing workflow faster, we've done our job. Please let us know what you think!
+- ✅ Process everything in your browser
+- ✅ Keep your data completely private
+- ✅ Save your last 10 comparisons locally
+- ✅ Work with drag-and-drop files
+- ✅ Support dark mode and light mode
+- ✅ Stay free to use
 
-Thanks for giving us a shot.
-— The Text-Differ Team ❤️
+## What You Can Do
+
+- **Compare documents** without leaking sensitive information
+- **Review code changes** privately
+- **Format API responses** without sending data to external servers
+- **Track contract edits** securely
+- **Share the tool** with colleagues who care about privacy
+
+## The Bottom Line
+
+You shouldn't have to trade privacy for functionality.
+
+Text Differ and Smart Formatter prove you can have both — powerful tools that work locally, respect your data, and never ask for permission to see what's yours.
+
+Thank you for trusting us.
+
+**Happy comparing, happy formatting.**
+
+— The Text Differ Team

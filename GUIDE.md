@@ -1,133 +1,139 @@
-# Text Differ Guide
+# Text Differ & Smart Formatter - Complete User Guide
 
-Welcome to Text Differ — a clean, fast, and privacy-friendly online text comparison tool built for developers, writers, students, editors, and teams.
-
-Website: https://text-differ.com/
-
----
-
-# What is Text Differ?
-
-Text Differ helps you compare two pieces of text instantly and highlights the differences in a simple visual format.
-
-Whether you are reviewing code, checking document revisions, proofreading content, or comparing JSON files, Text Differ makes the process fast and accurate.
-
----
-
-# Key Features
-
-## Side-by-Side Comparison
-Compare old and new text versions in a clean dual-editor layout.
-
-## Word & Line Highlighting
-Quickly identify:
-- Added content
-- Removed content
-- Modified text
-
-## Multiple Compare Modes
-Choose the comparison style that fits your workflow.
-
-## Real-Time Diff Detection
-Changes are detected instantly while typing.
-
-## Drag & Drop Support
-Drag files directly into the editor for comparison.
-
-## Virtualized Rendering
-Smooth performance even for large files.
-
-## Fast & Responsive
-Optimized for desktop and mobile devices.
+## Table of Contents
+1. [Text Differ: Text Comparison Tool](#text-differ-text-comparison-tool)
+   - [Getting Started](#getting-started)
+   - [Comparison Modes](#comparison-modes)
+   - [Ignore Options](#ignore-options)
+   - [Three-Way Merge](#three-way-merge)
+   - [Keyboard Shortcuts](#keyboard-shortcuts)
+   - [History & Saved Comparisons](#history--saved-comparisons)
+2. [Smart Formatter: Code Formatting Tool](#smart-formatter-code-formatting-tool)
+   - [Getting Started with Smart Formatter](#getting-started-with-smart-formatter)
+   - [Supported Formats](#supported-formats)
+   - [How to Use Smart Formatter](#how-to-use-smart-formatter)
+   - [Key Features](#key-features)
+   - [Why Formatting Matters](#why-formatting-matters)
+3. [Privacy & Security](#privacy--security)
+4. [FAQ](#faq)
 
 ---
 
-# Common Use Cases
+# Text Differ: Text Comparison Tool
 
-Text Differ is useful for:
+## Getting Started
 
-- Code review
-- Content editing
-- Legal document comparison
-- Configuration comparison
-- Academic proofreading
-- Version tracking
+Text Differ helps you compare two versions of text and spot differences instantly. Here's how to begin:
 
----
+1. **Open Text Differ** - Navigate to [https://text-differ.com](https://text-differ.com)
+2. **Enter Your Text** - Paste text into the left (Original) and right (Modified) panels
+3. **Upload Files** - Drag & drop files directly or use the file upload button
+4. **Load from URL** - Paste a web link to fetch and compare content from any public webpage
+5. **View Differences** - Changes are highlighted automatically:
+   - Additions
+   - Deletions
+   - Modifications
 
-# How to Use
+## Comparison Modes
 
-## Step 1 — Paste Text
-Paste your original content into the left editor.
+Choose how you want to compare text based on your needs:
 
-## Step 2 — Add Updated Text
-Paste the modified content into the right editor.
+| Mode | Description | Best For |
+|------|-------------|----------|
+| **Line by Line** | Compares text line-by-line | Code files, documents with clear line breaks |
+| **Word by Word** | Splits content into words and compares | Prose, articles, sentence-level changes |
+| **Character by Character** | Compares every single character | Exact text matching, typo detection |
 
-## Step 3 — Compare
-Text Differ automatically highlights the differences.
+## Ignore Options
 
-## Step 4 — Review Changes
-Analyze:
-- Added lines
-- Removed lines
-- Updated words
+Focus on meaningful changes by ignoring common variations:
 
----
+- **Ignore Whitespace** - Ignores spaces, tabs, and line breaks differences
+- **Ignore Case** - Treats uppercase and lowercase letters as identical
 
-# Why Choose Text Differ?
+## Three-Way Merge
 
-Text Differ is designed to be:
-- Fast
-- Clean
-- Accurate
-- Easy to use
-- Privacy-friendly
+Resolve conflicts by comparing three versions simultaneously:
 
-Unlike bulky desktop tools, Text Differ works directly in your browser without installation.
+1. **Base** - The original version
+2. **Left** - First modified version  
+3. **Right** - Second modified version
 
----
+The tool helps you choose which changes to keep, modify, or discard while preserving all information.
 
-# Performance Benefits
+## History & Saved Comparisons
 
-Text Differ uses optimized rendering techniques for handling large files efficiently.
-
-This helps reduce lag while scrolling and comparing large blocks of text.
+- Your last 10 comparisons are automatically saved
+- Click any history entry to restore that comparison
+- Revert any changes with the "Revert Text" button
 
 ---
 
-# Browser Support
+# Smart Formatter: Code Formatting Tool
 
-Supported browsers:
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Edge
-- Safari
+## Getting Started with Smart Formatter
 
----
+Smart Formatter is an all-in-one online tool to beautify, validate, and format code and data. Access it at [https://text-differ.com/smart-formatter](https://text-differ.com/smart-formatter)
 
-# Best Practices
+**Why use Smart Formatter?** 
+- Structured, readable code is easier to debug, maintain, and share. Transform minified or messy code into properly indented, syntax-highlighted code in seconds — **all locally in your browser**.
 
-For better comparison results:
-- Use properly formatted text
-- Compare similar file types
-- Remove unnecessary whitespace when possible
-- Use line-by-line mode for large documents
+## Supported Formats
 
----
+Smart Formatter supports multiple formats in one unified tool:
 
-# SEO Keywords
+| Format | Common Use Cases |
+|--------|------------------|
+| **JSON** | API responses, configuration files, data exchange |
+| **HTML** | Web pages, email templates, CMS content |
+| **CSS** | Stylesheets, responsive design code |
+| **SQL** | Database queries, analytics scripts |
+| **JavaScript** | Web development, automation scripts |
+| **XML** | Data configuration, document storage |
+| **BSON** | Binary JSON data |
 
-text compare tool, online diff checker, compare text online, text difference checker, side by side text compare, code comparison tool, compare documents online, text diff viewer
+## How to Use Smart Formatter
 
----
+Follow these simple steps to format your code:
 
-# Official Website
+### Step 1: Input Your Code
+- **Paste** directly into the input panel
+- **Upload** a file by dragging and dropping
+- **Fetch from URL** - Paste a link to retrieve online content
 
-Visit Text Differ:
-https://text-differ.com/
+### Step 2: Select Format
+- Use **Auto-Detect** for automatic format recognition, OR
+- Manually select your specific format (JSON, HTML, CSS, SQL, JavaScript, etc.)
 
----
+### Step 3: Format
+- Click the **Format** button to beautify your code
 
-# License
+### Step 4: Export
+- **Copy** the formatted output to clipboard
+- **Download** as a file for offline use or sharing
 
-© 2024 - 2026 Text Differ. All rights reserved.
+## Key Features
+
+| Feature | Description |
+|---------|-------------|
+| **Auto-Detect Format** | Automatically recognizes code type - no manual selection needed |
+| **Error Detection** | Identifies syntax issues in real-time |
+| **One-Click Beautify** | Adds proper indentation and line breaks instantly |
+| **Expandable Editor** | Expand input or output panels for a cleaner workspace |
+| **Preference Presets** | Save settings (indent size, format type) for next time |
+| **Drag & Drop Upload** | Simply drag files into the browser |
+| **URL Fetching** | Format remote data from any public URL |
+
+## Why Formatting Matters
+
+### Benefits of Proper Formatting:
+
+✅ **Easier Debugging** - Find errors quickly in well-structured code
+
+✅ **Better Collaboration** - Teams understand formatted code faster
+
+✅ **Reduced Errors** - Proper indentation reveals structure issues
+
+✅ **API Development** - Format JSON responses for readability
+
+✅ **Learning Tool** - Understand code structure by comparing minified vs. formatted

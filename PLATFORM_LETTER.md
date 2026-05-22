@@ -2,30 +2,22 @@
 
 Dear Enterprise Security Partners & IT Compliance Leads,
 
-We are writing regarding **Text-Differ**, a text difference utility built to assist developers, editors, and legal compliance teams while ensuring strict data isolation on local workstations.
+We are writing regarding **Text-Differ** and **Smart Formatter** — a text difference utility and code formatting tool built to assist developers, editors, and legal compliance teams while ensuring strict data isolation on local workstations.
 
 ## Our Philosophy
+**Your data stays on your device.**
 
-Text-Differ is built on a single core principle: **local computation**. Text files, customer databases, intellectual property, and proprietary code bases must never leave the boundary of the local user session. Unlike web-based comparison utilities that transmit data packages to remote hosts, Text-Differ processes text entirely inside local system memory.
+Text-Differ and Smart Formatter work entirely in your browser. When you paste text, upload a file, or format code — everything happens locally on your computer.
 
 ## Security Commitments
 
-To ensure alignment with corporate security frameworks, Text-Differ implements these boundaries:
+To ensure alignment with corporate security frameworks, both tools implement these boundaries:
 
-- **No Data Harvesting**: The application does not collect analytics telemetry, user metadata, or document filenames.
+- **No Data Harvesting**: The applications do not collect analytics telemetry, user metadata, document filenames, or code snippets.
+- **No External API Calls**: Both tools function without calling any external formatting or comparison APIs.
 - **Bundled Dependencies**: Core libraries and npm packages are bundled with the application build to reduce reliance on external runtime resources.
 
-## Integration Possibilities
-
-For corporate environments, we support:
-1. Integration with corporate shell commands and CLI pipelines.
-2. Group policy configurations to block external network sockets completely.
-3. Custom installer bundles for automated internal network distribution.
-
 ## Contact Us
-
-If your security audit team requires detailed SOC2 reports, vulnerability disclosures, or custom enterprise installation sheets:
-
 - Email: security@text-differ.com
 - Website: [https://text-differ.com](https://text-differ.com)
 
