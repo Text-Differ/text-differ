@@ -6,7 +6,6 @@
    - [Comparison Modes](#comparison-modes)
    - [Ignore Options](#ignore-options)
    - [Three-Way Merge](#three-way-merge)
-   - [Keyboard Shortcuts](#keyboard-shortcuts)
    - [History & Saved Comparisons](#history--saved-comparisons)
 2. [Smart Formatter: Code Formatting Tool](#smart-formatter-code-formatting-tool)
    - [Getting Started with Smart Formatter](#getting-started-with-smart-formatter)
@@ -14,8 +13,6 @@
    - [How to Use Smart Formatter](#how-to-use-smart-formatter)
    - [Key Features](#key-features)
    - [Why Formatting Matters](#why-formatting-matters)
-3. [Privacy & Security](#privacy--security)
-4. [FAQ](#faq)
 
 ---
 
