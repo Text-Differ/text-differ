@@ -58,15 +58,13 @@ December 30, 2025
 
 Comparing text shouldn't be painful. Text Differ is a fast, accurate, and privacy-focused web tool — helping you spot every change, whether you're reviewing code, editing contracts, or collaborating on documents. **No uploads to servers, no tracking, just reliable diffs right in your browser.**
 
-## Side-by-Side Diff
+### Side-by-Side Diff
 ![TextDiffer Image](src/text-compare.png)
 
-## 3-Way-Merge
+### 3-Way-Merge
 ![TextDiffer Image](src/3-Way-Merge.png)
 
----
-
-## Features
+### Text Differ Features
 
 | Feature              | Description                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------- |
@@ -96,6 +94,8 @@ In addition to text comparison, Text Differ now includes **Smart Formatter** —
 
 Clean, readable code is essential for debugging, sharing, and maintaining projects. Smart Formatter helps you instantly transform minified or messy code into properly indented, syntax-highlighted structures — **all locally in your browser**.
 
+### Smart Formatter Features
+
 | Feature                      | Description                                                                               |
 | ---------------------------- | ----------------------------------------------------------------------------------------- |
 | Multi-Format Support         | Format JSON, HTML, CSS, SQL, JavaScript, and more with a single tool.                     |
@@ -108,14 +108,14 @@ Clean, readable code is essential for debugging, sharing, and maintaining projec
 | Expandable Editor & Output   | Expand input or output panels for a cleaner workspace with large code blocks.            |
 | Preference Presets           | Save your settings (e.g., indent size, format type) for next time.                        |
 
-### 🛠️ How to Use Smart Formatter
+### How to Use Smart Formatter
 
 1. Paste, upload, or fetch your code from a URL in the input panel.
 2. Choose a specific format (e.g., JSON, SQL) or use **Auto-Detect**.
 3. Click **Format** to beautify the code.
 4. Copy the output or download it as a file.
 
-### ✅ Popular Use Cases
+### Popular Use Cases
 
 - **Developers:** Quickly debug API responses by formatting raw JSON.
 - **Data Analysts:** Beautify SQL queries for better readability.
